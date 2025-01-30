@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanturkyilmaz&show_icons=true&theme=dark&locale=tr" alt="batuhanturkyilmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanturkyilmaz&" alt="batuhanturkyilmaz" /></p>
+
+![snake gif](https://github.com/YOUR_USERNAME/batuhanturkyilmaz/blob/output/github-contribution-grid-snake.gif)
+
