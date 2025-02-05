@@ -1,6 +1,6 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/code-coding-programming-simple-background-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Batuhan Türkyılmaz</h1> 
-<h3 align="center">A passionate engineer from Türkiye #TR</h3>
+<h3 align="center">A passionate CENG student from Türkiye #TR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanturkyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanturkyilmaz" /> </p>
 
